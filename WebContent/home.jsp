@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>HelloWorld pg 2</title>
 </head>
 <body>
-
+<p>This is my second page, now with content.</p>
 </body>
 </html>
